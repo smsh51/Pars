@@ -8,4 +8,4 @@ project in parscoders
 
 ---
 **Run**
-1. run main.py
+1. open Run.bat
