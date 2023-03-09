@@ -2,17 +2,10 @@
 project in parscoders
 
 ---
-**Run by env**
-1. run cmd 
-2. env\Scripts\activate.bat
-3. python main.cpython-311.pyc
+**install**
+1. install [python](https://www.python.org/downloads/)
+2. run installer
 
 ---
-**Run by python**
-1. python main.cpython-311.pyc
-
----
-### install lib
-1. run cmd
-2. pip install -r requirements.txt
-
+**Run**
+1. run main.py
